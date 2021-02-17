@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RegistryApp</string>
+    <string name="add_Company">Add</string>
+    <string name="icon">icon</string>
+    <string name="registry_app">Registry App</string>
+    <string name="todo">TODO</string>
+    <string name="company_name">Location</string>
+    <string name="CName">Company Name</string>
+    <string name="name" />
+    <string name="Option_add">Select </string>
+    <string name="button">Done</string>
+    <string name="Description">To add a new location. Please fill in the blanks and select what type of upload file is it.</string>
+    <string name="upload">Upload file</string>
+    <string-array name="dropdown_list">
+        <item>list 1</item>
+        <item>assets</item>
+        <item>list 3</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_page">Loginpage</string>
+    <string name="login_username">Company Name</string>
+    <string name="login_password">Password</string>
+    <string name="login_name">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="loc_signup">Location</string>
+    <string name="email_signup">Email</string>
+    <string name="login_here">Login here</string>
+    <string name="signup_link">Create a new account sign up here</string>
+</resources>
